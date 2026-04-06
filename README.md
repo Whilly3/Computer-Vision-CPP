@@ -1,28 +1,30 @@
 # Computer-Vision-CPP
 
-This repository houses advanced Large Language Model (LLM) applications and research. It focuses on fine-tuning, prompt engineering, model deployment, object detection, and optimization techniques.
+This repository contains high-performance Computer Vision algorithms and applications implemented in C++. The focus is on real-time image processing, object detection, 3D reconstruction, and embedded vision systems.
 
 ## Topics
-## Linguistic Models
-## Computer Vision
-## Distributed Systems
+## Real-time Image Processing
+## Object Detection
+## 3D Reconstruction
+## Embedded Vision
 
 ## Installation
-`ip config get index-urls`
-`command here to install requirements`
+```bash
+# Example for Ubuntu/Debian
+sudo apt update
+sudo apt install build-essential cmake libopencv-dev
 
-`conda create -n env_name python=3.10`
-`conda activate env_name`
-`command here to install requirements`
+# Example for macOS with Homebrew
+brew update
+brew install cmake opencv
+```
 
 ## Usage
 
-Examples and documentation for using the applications will be provided in separate folders.
+Detailed examples and documentation for each module will be provided within their respective directories.
 
 ## Contribution
-Welcome contributions from the community! Please refer guidelines for contributing.
+Contributions are welcome! Please adhere to the coding standards and guidelines.
 
-
-## Licence
-
-This repository is subject to the MIT License.
+## License
+This project is licensed under the MIT License.
